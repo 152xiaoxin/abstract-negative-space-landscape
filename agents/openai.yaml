@@ -1,0 +1,4 @@
+interface:
+  display_name: "抽象留白风景"
+  short_description: "把风景提炼为单一主体、约75%高级留白的悬浮艺术标本"
+  default_prompt: "请使用 $abstract-negative-space-landscape，把我提供的照片做成统一的抽象留白风景系列；保留每张最有辨识度的单一主体，并完成视觉检查。"
